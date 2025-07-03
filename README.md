@@ -158,20 +158,20 @@ To assess **growth trends** of core development indicators from 1991–2008.
 
 Projected 20-year trends for:
 
-* 🇺🇸 USA: Declining emissions from \~17 t/cap
-* 🇷🇺 Russia: Slight downward trend
-* 🇳🇿 NZL: Gradual increase
-* 🇮🇳 India & 🇵🇰 Pakistan: Rising trends from \~1.5–2 t/cap
+* USA: Declining emissions from \~17 t/cap
+* Russia: Slight downward trend
+* NZL: Gradual increase
+* India & 🇵🇰 Pakistan: Rising trends from \~1.5–2 t/cap
 
 ## Conclusion
 
-*USA:Starts with the highest CO₂ emissions per capita (~17 metric tons) but shows a steady decline over time. Despite the drop, it remains the highest emitter per person.
+* USA:Starts with the highest CO₂ emissions per capita (~17 metric tons) but shows a steady decline over time. Despite the drop, it remains the highest emitter per person.
 
-*RUS:Has relatively stable emissions with a slight downward trend, indicating moderate policy or behavioral changes. 
+* RUS:Has relatively stable emissions with a slight downward trend, indicating moderate policy or behavioral changes. 
 
-*NZL:Shows gradual growth in emissions per capita, which may suggest increased industrial or transport-related emissions.
-
-*IND & PAK:Begin with very low per capita emissions (~1.5–2 metric tons) but display a gradual upward trend.This suggests economic growth and development, which often correlate with increased energy use.
+* NZL:Shows gradual growth in emissions per capita, which may suggest increased industrial or transport-related emissions.
+ 
+* IND & PAK:Begin with very low per capita emissions (~1.5–2 metric tons) but display a gradual upward trend.This suggests economic growth and development, which often correlate with increased energy use.
 
 Developed nations (like the USA and Russia) are reducing their per capita emissions, likely due to energy transition policies and technology upgrades.
 
